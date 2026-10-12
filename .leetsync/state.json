@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791795971552,
+  "updatedAt": 1791796021694,
   "devices": {
     "ba86b786-8162-465c-a767-5cacc5cb1c3d": {
-      "lastSeen": 1791795970827
+      "lastSeen": 1791796021199
     }
   },
   "problems": {
@@ -24,7 +24,26 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1791795970827
+      "at": 1791796021199
+    },
+    "190": {
+      "attempts": 1,
+      "bestMemory": "19.1 MB (Beats 73%)",
+      "bestRuntime": "4 ms (Beats 64%)",
+      "date": "2026-10-12",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-12",
+      "folderName": "0190-Reverse-Bits",
+      "language": "Python",
+      "number": 190,
+      "slug": "reverse-bits",
+      "solutionCount": 1,
+      "tags": [
+        "Divide and Conquer",
+        "Bit Manipulation"
+      ],
+      "title": "Reverse Bits",
+      "at": 1791796021199
     },
     "350": {
       "attempts": 1,
@@ -46,7 +65,7 @@
         "Sorting"
       ],
       "title": "Intersection of Two Arrays II",
-      "at": 1791795970827
+      "at": 1791796021199
     }
   },
   "achievements": {
@@ -54,11 +73,12 @@
   },
   "sheets": {},
   "days": [
-    "2026-10-10"
+    "2026-10-10",
+    "2026-10-12"
   ],
   "bests": {
     "longestStreak": 1,
-    "pushes": 2
+    "pushes": 3
   },
   "identity": {
     "installId": "1cdd8fdd-9701-4b14-912a-a73c5b9b8246",
