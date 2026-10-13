@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791885759686,
+  "updatedAt": 1791886021775,
   "devices": {
     "ba86b786-8162-465c-a767-5cacc5cb1c3d": {
-      "lastSeen": 1791885759139
+      "lastSeen": 1791886021200
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1791885759139
+      "at": 1791886021200
     },
     "190": {
       "attempts": 1,
@@ -43,7 +43,27 @@
         "Bit Manipulation"
       ],
       "title": "Reverse Bits",
-      "at": 1791885759139
+      "at": 1791886021200
+    },
+    "225": {
+      "attempts": 1,
+      "bestMemory": "19.4 MB (Beats 55%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-13",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-13",
+      "folderName": "0225-Implement-Stack-using-Queues",
+      "language": "Python",
+      "number": 225,
+      "slug": "implement-stack-using-queues",
+      "solutionCount": 1,
+      "tags": [
+        "Stack",
+        "Design",
+        "Queue"
+      ],
+      "title": "Implement Stack using Queues",
+      "at": 1791886021200
     },
     "350": {
       "attempts": 1,
@@ -65,7 +85,7 @@
         "Sorting"
       ],
       "title": "Intersection of Two Arrays II",
-      "at": 1791885759139
+      "at": 1791886021200
     }
   },
   "achievements": {
@@ -74,11 +94,12 @@
   "sheets": {},
   "days": [
     "2026-10-10",
-    "2026-10-12"
+    "2026-10-12",
+    "2026-10-13"
   ],
   "bests": {
-    "longestStreak": 1,
-    "pushes": 3
+    "longestStreak": 2,
+    "pushes": 4
   },
   "identity": {
     "installId": "1cdd8fdd-9701-4b14-912a-a73c5b9b8246",
