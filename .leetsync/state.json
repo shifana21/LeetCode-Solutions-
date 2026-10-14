@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791952922183,
+  "updatedAt": 1791953368524,
   "devices": {
     "ba86b786-8162-465c-a767-5cacc5cb1c3d": {
-      "lastSeen": 1791952921200
+      "lastSeen": 1791953367683
     }
   },
   "problems": {
@@ -24,7 +24,29 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1791952921200
+      "at": 1791953367683
+    },
+    "130": {
+      "attempts": 1,
+      "bestMemory": "22.4 MB (Beats 43%)",
+      "bestRuntime": "3 ms (Beats 84%)",
+      "date": "2026-10-14",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-14",
+      "folderName": "0130-Surrounded-Regions",
+      "language": "Python",
+      "number": 130,
+      "slug": "surrounded-regions",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Matrix"
+      ],
+      "title": "Surrounded Regions",
+      "at": 1791953367683
     },
     "190": {
       "attempts": 1,
@@ -43,7 +65,7 @@
         "Bit Manipulation"
       ],
       "title": "Reverse Bits",
-      "at": 1791952921200
+      "at": 1791953367683
     },
     "225": {
       "attempts": 1,
@@ -63,7 +85,7 @@
         "Queue"
       ],
       "title": "Implement Stack using Queues",
-      "at": 1791952921200
+      "at": 1791953367683
     },
     "350": {
       "attempts": 1,
@@ -85,21 +107,23 @@
         "Sorting"
       ],
       "title": "Intersection of Two Arrays II",
-      "at": 1791952921200
+      "at": 1791953367683
     }
   },
   "achievements": {
-    "first_blood": 1791608300180
+    "first_blood": 1791608300180,
+    "on_fire": 1791952938290
   },
   "sheets": {},
   "days": [
     "2026-10-10",
     "2026-10-12",
-    "2026-10-13"
+    "2026-10-13",
+    "2026-10-14"
   ],
   "bests": {
-    "longestStreak": 2,
-    "pushes": 4
+    "longestStreak": 3,
+    "pushes": 5
   },
   "identity": {
     "installId": "1cdd8fdd-9701-4b14-912a-a73c5b9b8246",
