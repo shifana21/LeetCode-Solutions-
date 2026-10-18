@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1792302434146,
+  "updatedAt": 1792302536403,
   "devices": {
     "ba86b786-8162-465c-a767-5cacc5cb1c3d": {
-      "lastSeen": 1792302433613
+      "lastSeen": 1792302535603
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1792302433613
+      "at": 1792302535603
     },
     "89": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Bit Manipulation"
       ],
       "title": "Gray Code",
-      "at": 1792302433613
+      "at": 1792302535603
     },
     "130": {
       "attempts": 1,
@@ -66,7 +66,7 @@
         "Matrix"
       ],
       "title": "Surrounded Regions",
-      "at": 1792302433613
+      "at": 1792302535603
     },
     "190": {
       "attempts": 1,
@@ -85,7 +85,7 @@
         "Bit Manipulation"
       ],
       "title": "Reverse Bits",
-      "at": 1792302433613
+      "at": 1792302535603
     },
     "194": {
       "attempts": 1,
@@ -103,7 +103,7 @@
         "Shell"
       ],
       "title": "Transpose File",
-      "at": 1792302433613
+      "at": 1792302535603
     },
     "225": {
       "attempts": 1,
@@ -123,7 +123,7 @@
         "Queue"
       ],
       "title": "Implement Stack using Queues",
-      "at": 1792302433613
+      "at": 1792302535603
     },
     "350": {
       "attempts": 1,
@@ -145,7 +145,7 @@
         "Sorting"
       ],
       "title": "Intersection of Two Arrays II",
-      "at": 1792302433613
+      "at": 1792302535603
     },
     "594": {
       "attempts": 1,
@@ -167,7 +167,7 @@
         "Counting"
       ],
       "title": "Longest Harmonious Subsequence",
-      "at": 1792302433613
+      "at": 1792302535603
     },
     "595": {
       "attempts": 1,
@@ -185,7 +185,7 @@
         "Database"
       ],
       "title": "Big Countries",
-      "at": 1792302433613
+      "at": 1792302535603
     },
     "596": {
       "attempts": 1,
@@ -203,7 +203,7 @@
         "Database"
       ],
       "title": "Classes With at Least 5 Students",
-      "at": 1792302433613
+      "at": 1792302535603
     },
     "598": {
       "attempts": 1,
@@ -222,7 +222,7 @@
         "Math"
       ],
       "title": "Range Addition II",
-      "at": 1792302433613
+      "at": 1792302535603
     },
     "599": {
       "attempts": 1,
@@ -242,12 +242,50 @@
         "String"
       ],
       "title": "Minimum Index Sum of Two Lists",
-      "at": 1792302433613
+      "at": 1792302535603
+    },
+    "605": {
+      "attempts": 2,
+      "bestMemory": "19.5 MB (Beats 80%)",
+      "bestRuntime": "12 ms (Beats 26%)",
+      "date": "2026-10-18",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-18",
+      "folderName": "0605-Can-Place-Flowers",
+      "language": "Python",
+      "number": 605,
+      "slug": "can-place-flowers",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Greedy"
+      ],
+      "title": "Can Place Flowers",
+      "at": 1792302535603
+    },
+    "607": {
+      "attempts": 1,
+      "bestMemory": "0B (Beats 100%)",
+      "bestRuntime": "1460 ms (Beats 69%)",
+      "date": "2026-10-18",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-18",
+      "folderName": "0607-Sales-Person",
+      "language": "MySQL",
+      "number": 607,
+      "slug": "sales-person",
+      "solutionCount": 1,
+      "tags": [
+        "Database"
+      ],
+      "title": "Sales Person",
+      "at": 1792302535603
     }
   },
   "achievements": {
     "bookworm": 1792302355247,
     "deca": 1792302260201,
+    "easy_rider": 1792302446183,
     "first_blood": 1791608300180,
     "on_fire": 1791952938290,
     "polyglot": 1792302221402
@@ -264,7 +302,7 @@
   ],
   "bests": {
     "longestStreak": 3,
-    "pushes": 12
+    "pushes": 14
   },
   "identity": {
     "installId": "1cdd8fdd-9701-4b14-912a-a73c5b9b8246",
