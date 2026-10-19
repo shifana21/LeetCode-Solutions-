@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-17%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-14%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-3%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-18%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-14%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-4%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 |:---:|:--------|:----------:|:--------:|:----:|
 | 1 | [Two Sum](problems/0001-Two-Sum) | 🟩 Easy | `Python` | 2026-10-10 |
 | 89 | [Gray Code](problems/0089-Gray-Code) | 🟧 Medium | `Python` | 2026-10-16 |
+| 95 | [Unique Binary Search Trees II](problems/0095-Unique-Binary-Search-Trees-II) | 🟧 Medium | `Python` | 2026-10-19 |
 | 130 | [Surrounded Regions](problems/0130-Surrounded-Regions) | 🟧 Medium | `Python` | 2026-10-14 |
 | 190 | [Reverse Bits](problems/0190-Reverse-Bits) | 🟩 Easy | `Python` | 2026-10-12 |
 | 194 | [Transpose File](problems/0194-Transpose-File) | 🟧 Medium | `bash` | 2026-10-17 |
