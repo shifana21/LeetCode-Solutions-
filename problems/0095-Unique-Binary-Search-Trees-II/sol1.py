@@ -1,0 +1,32 @@
+# ==========================================================
+# 95. Unique Binary Search Trees II
+# Difficulty : Medium
+# Language   : Python
+# Solution   : #1
+# Runtime    : 5 ms (Beats 16%)
+# Memory     : 20.3 MB (Beats 68%)
+# Link       : https://leetcode.com/problems/unique-binary-search-trees-ii/
+# ==========================================================
+
+class Solution:
+    def generateTrees(self, n: int):
+        def build(start, end):
+            if start > end:
+                return [None]
+
+            trees = []
+
+            for root_val in range(start, end + 1):
+                left_trees = build(start, root_val - 1)
+                right_trees = build(root_val + 1, end)
+
+                for left in left_trees:
+                    for right in right_trees:
+                        root = TreeNode(root_val)
+                        root.left = left
+                        root.right = right
+                        trees.append(root)
+
+            return trees
+
+        return build(1, n)
