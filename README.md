@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-28%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-20%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-8%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-29%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-21%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-8%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -57,6 +57,7 @@
 | 1185 | [Day of the Week](problems/1185-Day-of-the-Week) | 🟩 Easy | `Java` | 2026-10-20 |
 | 1189 | [Maximum Number of Balloons](problems/1189-Maximum-Number-of-Balloons) | 🟩 Easy | `Java` | 2026-10-20 |
 | 3432 | [Count Partitions with Even Sum Difference](problems/3432-Count-Partitions-with-Even-Sum-Difference) | 🟩 Easy | `Java` | 2026-10-20 |
+| 3436 | [Find Valid Emails](problems/3436-Find-Valid-Emails) | 🟩 Easy | `MySQL` | 2026-10-20 |
 
 ---
 
