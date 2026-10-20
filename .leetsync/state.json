@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1792496719550,
+  "updatedAt": 1792496788286,
   "devices": {
     "ba86b786-8162-465c-a767-5cacc5cb1c3d": {
-      "lastSeen": 1792496718312
+      "lastSeen": 1792496786913
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1792496718312
+      "at": 1792496786913
     },
     "89": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Bit Manipulation"
       ],
       "title": "Gray Code",
-      "at": 1792496718312
+      "at": 1792496786913
     },
     "95": {
       "attempts": 1,
@@ -66,7 +66,7 @@
         "Binary Tree"
       ],
       "title": "Unique Binary Search Trees II",
-      "at": 1792496718312
+      "at": 1792496786913
     },
     "96": {
       "attempts": 1,
@@ -88,7 +88,7 @@
         "Binary Tree"
       ],
       "title": "Unique Binary Search Trees",
-      "at": 1792496718312
+      "at": 1792496786913
     },
     "97": {
       "attempts": 1,
@@ -107,7 +107,7 @@
         "Dynamic Programming"
       ],
       "title": "Interleaving String",
-      "at": 1792496718312
+      "at": 1792496786913
     },
     "98": {
       "attempts": 1,
@@ -128,7 +128,7 @@
         "Binary Tree"
       ],
       "title": "Validate Binary Search Tree",
-      "at": 1792496718312
+      "at": 1792496786913
     },
     "99": {
       "attempts": 1,
@@ -149,7 +149,7 @@
         "Binary Tree"
       ],
       "title": "Recover Binary Search Tree",
-      "at": 1792496718312
+      "at": 1792496786913
     },
     "130": {
       "attempts": 1,
@@ -171,7 +171,7 @@
         "Matrix"
       ],
       "title": "Surrounded Regions",
-      "at": 1792496718312
+      "at": 1792496786913
     },
     "190": {
       "attempts": 1,
@@ -190,7 +190,7 @@
         "Bit Manipulation"
       ],
       "title": "Reverse Bits",
-      "at": 1792496718312
+      "at": 1792496786913
     },
     "194": {
       "attempts": 1,
@@ -208,7 +208,7 @@
         "Shell"
       ],
       "title": "Transpose File",
-      "at": 1792496718312
+      "at": 1792496786913
     },
     "225": {
       "attempts": 1,
@@ -228,7 +228,7 @@
         "Queue"
       ],
       "title": "Implement Stack using Queues",
-      "at": 1792496718312
+      "at": 1792496786913
     },
     "350": {
       "attempts": 1,
@@ -250,7 +250,7 @@
         "Sorting"
       ],
       "title": "Intersection of Two Arrays II",
-      "at": 1792496718312
+      "at": 1792496786913
     },
     "594": {
       "attempts": 1,
@@ -272,7 +272,7 @@
         "Counting"
       ],
       "title": "Longest Harmonious Subsequence",
-      "at": 1792496718312
+      "at": 1792496786913
     },
     "595": {
       "attempts": 1,
@@ -290,7 +290,7 @@
         "Database"
       ],
       "title": "Big Countries",
-      "at": 1792496718312
+      "at": 1792496786913
     },
     "596": {
       "attempts": 1,
@@ -308,7 +308,7 @@
         "Database"
       ],
       "title": "Classes With at Least 5 Students",
-      "at": 1792496718312
+      "at": 1792496786913
     },
     "598": {
       "attempts": 1,
@@ -327,7 +327,7 @@
         "Math"
       ],
       "title": "Range Addition II",
-      "at": 1792496718312
+      "at": 1792496786913
     },
     "599": {
       "attempts": 1,
@@ -347,7 +347,7 @@
         "String"
       ],
       "title": "Minimum Index Sum of Two Lists",
-      "at": 1792496718312
+      "at": 1792496786913
     },
     "605": {
       "attempts": 2,
@@ -366,7 +366,7 @@
         "Greedy"
       ],
       "title": "Can Place Flowers",
-      "at": 1792496718312
+      "at": 1792496786913
     },
     "607": {
       "attempts": 1,
@@ -384,7 +384,7 @@
         "Database"
       ],
       "title": "Sales Person",
-      "at": 1792496718312
+      "at": 1792496786913
     },
     "610": {
       "attempts": 1,
@@ -402,7 +402,7 @@
         "Database"
       ],
       "title": "Triangle Judgement",
-      "at": 1792496718312
+      "at": 1792496786913
     },
     "617": {
       "attempts": 1,
@@ -423,7 +423,7 @@
         "Binary Tree"
       ],
       "title": "Merge Two Binary Trees",
-      "at": 1792496718312
+      "at": 1792496786913
     },
     "619": {
       "attempts": 2,
@@ -441,7 +441,7 @@
         "Database"
       ],
       "title": "Biggest Single Number",
-      "at": 1792496718312
+      "at": 1792496786913
     },
     "1175": {
       "attempts": 1,
@@ -462,7 +462,7 @@
         "Prime Number Sieve"
       ],
       "title": "Prime Arrangements",
-      "at": 1792496718312
+      "at": 1792496786913
     },
     "1179": {
       "attempts": 1,
@@ -480,7 +480,7 @@
         "Database"
       ],
       "title": "Reformat Department Table",
-      "at": 1792496718312
+      "at": 1792496786913
     },
     "1184": {
       "attempts": 2,
@@ -498,7 +498,7 @@
         "Array"
       ],
       "title": "Distance Between Bus Stops",
-      "at": 1792496718312
+      "at": 1792496786913
     },
     "1185": {
       "attempts": 1,
@@ -516,7 +516,7 @@
         "Math"
       ],
       "title": "Day of the Week",
-      "at": 1792496718312
+      "at": 1792496786913
     },
     "1189": {
       "attempts": 1,
@@ -536,7 +536,27 @@
         "Counting"
       ],
       "title": "Maximum Number of Balloons",
-      "at": 1792496718312
+      "at": 1792496786913
+    },
+    "3432": {
+      "attempts": 1,
+      "bestMemory": "42.9 MB (Beats 99%)",
+      "bestRuntime": "1 ms (Beats 52%)",
+      "date": "2026-10-20",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-20",
+      "folderName": "3432-Count-Partitions-with-Even-Sum-Difference",
+      "language": "Java",
+      "number": 3432,
+      "slug": "count-partitions-with-even-sum-difference",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Math",
+        "Prefix Sum"
+      ],
+      "title": "Count Partitions with Even Sum Difference",
+      "at": 1792496786913
     }
   },
   "achievements": {
@@ -562,7 +582,7 @@
   ],
   "bests": {
     "longestStreak": 5,
-    "pushes": 27
+    "pushes": 28
   },
   "identity": {
     "installId": "1cdd8fdd-9701-4b14-912a-a73c5b9b8246",
